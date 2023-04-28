@@ -9,6 +9,7 @@ package prácticaunidad3;
  *
  * @author ED05
  * @version 1.0 PROBANDO EL GIT
+ * @version 1.1 Editando desde el GIT a Netbeans
  */
 public class Main {
 
